@@ -1,6 +1,7 @@
-# test-project
+# Vue-Material-TodoApp
+A simple Vue App featuring a TodoComponent with Material Design
 
-> A Vue.js project
+live example: https://codesandbox.io/s/n7lorrxwl
 
 ## Build Setup
 
